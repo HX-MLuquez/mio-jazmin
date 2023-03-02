@@ -1,6 +1,6 @@
 {
   "name": "mio-jazmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "little library of Test mio-jazmin",
   "main": "mioJazmin.js",
   "type": "module",
