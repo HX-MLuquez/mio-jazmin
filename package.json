@@ -1,8 +1,8 @@
 {
   "name": "mio-jazmin",
   "version": "1.0.0",
-  "description": "",
-  "main": "mio-jazmin.js",
+  "description": "little library of Test mio-jazmin",
+  "main": "mioJazmin.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
