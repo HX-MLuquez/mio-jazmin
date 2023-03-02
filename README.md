@@ -31,7 +31,7 @@ const arrayResult = [12, "hi", undefined, [], {}, "hola"];
 
 ### Section to import the library 
 ```js
-import {describe, it, expect } from "./mioJazmin.js";
+import {describe, it, expect } from "mio-jazmin";
 // console.log(describe) // test el import que para javascript parece necesitar tener la extensión, donde de: "./mioJazmin" debemos pasar a: -> "./mioJazmin.js"
 ```
 ### Code to Test
